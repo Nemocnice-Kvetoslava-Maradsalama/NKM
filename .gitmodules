@@ -1,0 +1,15 @@
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/Nemocnice-Kvetoslava-Maradsalama/eureka-server.git
+[submodule "patient-svc"]
+	path = patient-svc
+	url = https://github.com/Nemocnice-Kvetoslava-Maradsalama/patient-svc.git
+[submodule "disease-svc"]
+	path = disease-svc
+	url = https://github.com/Nemocnice-Kvetoslava-Maradsalama/disease-svc.git
+[submodule "personnel-svc"]
+	path = personnel-svc
+	url = https://github.com/Nemocnice-Kvetoslava-Maradsalama/personnel-svc.git
+[submodule "drugs-svc"]
+	path = drugs-svc
+	url = https://github.com/Nemocnice-Kvetoslava-Maradsalama/drugs-svc.git
