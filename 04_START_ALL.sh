@@ -4,4 +4,4 @@
 ./XX_START.sh patient-svc
 ./XX_START.sh disease-svc
 ./XX_START.sh personnel-svc
-#./XX_START.sh drug-svc
+./XX_START.sh drug-svc

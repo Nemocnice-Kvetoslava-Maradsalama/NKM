@@ -25,5 +25,7 @@ npm run build
 docker-compose build
 cd ..
 
-# === DRUG SVC ===
-# todo
+# === DRUGS SVC ===
+cd drugs-svc
+docker-compose build
+cd ..
