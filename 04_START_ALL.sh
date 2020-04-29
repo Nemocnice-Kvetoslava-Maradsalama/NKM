@@ -1,7 +1,7 @@
 #!/bin/bash
 
-./XX_START.sh eureka-server
-./XX_START.sh patient-svc
-./XX_START.sh disease-svc
-./XX_START.sh personnel-svc
-./XX_START.sh drugs-svc
+./YY_START.sh eureka-server
+./YY_START.sh patient-svc
+./YY_START.sh disease-svc
+./YY_START.sh personnel-svc
+./YY_START.sh drugs-svc
