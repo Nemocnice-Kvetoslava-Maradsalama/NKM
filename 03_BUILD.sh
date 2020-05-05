@@ -8,13 +8,13 @@ cd ..
 
 # === PATIENT SVC ===
 cd patient-svc
-mvn package
+mvn package -DskipTests
 docker-compose build
 cd ..
 
 # === DISEASE SVC ===
 cd disease-svc
-mvn package
+mvn package -DskipTests
 docker-compose build
 cd ..
 
